@@ -63,4 +63,31 @@ Một hệ thống được xem là đáng tin cậy nếu thỏa mãn được 
     
 * Hiệu năng của nó đủ tốt khi trong hấu hết trường hợp sử dụng (lượng tải và dữ liệu dự kiến trước).
     
-* Chống lại những yêu cầu truy cập không được phép.
+* Từ chối những yêu cầu truy cập không được phép.
+    
+
+#### Hardware Faults
+
+#### Software Errors
+
+#### Human Errors
+
+#### How Important Is Reliability?
+
+### Scalability
+
+#### Describing Load
+
+#### Describing Performance
+
+#### Approaches for Coping with Load
+
+### Maintainability
+
+#### Operability: Making Life Easy for Operations
+
+#### Simplicity: Managing Complexity
+
+#### Evolvability: Making Change Easy
+
+# Updating...
